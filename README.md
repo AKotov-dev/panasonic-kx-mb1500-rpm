@@ -5,6 +5,8 @@ The packages contain drivers for a multifunctional device (printer and scanner) 
 ```
 usermod -aG lp,usb,scanner $LOGNAME; reboot
 ```
-Drivers on the vendor's website: https://panasonic.net/cns/pcc/support/fax/common/table/linuxdriver.html
+![](https://github.com/AKotov-dev/panasonic-kx-mb1500-rpm/blob/main/ScreenShot.jpg)
+
+Drivers on the vendor's website: https://panasonic.net/cns/pcc/support/fax/common/table/linuxdriver.html  
 
 **Similar programs:** [SrEditor - automatic rule editor for scanners](https://github.com/AKotov-dev/sreditor)
