@@ -9,4 +9,4 @@ usermod -aG lp,usb,scanner $(logname); reboot
 
 Drivers on the vendor's website: https://panasonic.net/cns/pcc/support/fax/common/table/linuxdriver.html  
 
-**Similar programs:** [SrEditor - automatic rule editor for scanners](https://github.com/AKotov-dev/sreditor)
+**Similar programs:** [SrEditor](https://github.com/AKotov-dev/sreditor) - automatic rule editor for scanners
