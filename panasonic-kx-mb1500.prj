@@ -93,3 +93,4 @@ toolversion=unknown
 0=v1.1
 1=+ Mageia-9 package
 2=+ ln -s /usr/lib64/libgs.so.10 /usr/lib/libgs.so
+
